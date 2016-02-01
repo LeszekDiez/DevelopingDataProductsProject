@@ -1,9 +1,5 @@
 library(ggplot2)
-library(rpart)
-library(rpart.plot)
-library(RColorBrewer)
-library(rattle)
-library(caret)
+
 data(mtcars)
 
 data <- mtcars
